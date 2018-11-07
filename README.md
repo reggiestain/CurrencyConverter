@@ -7,7 +7,8 @@ The framework source code can be found here: [cakephp/cakephp](https://github.co
 ## Installation
 
 1. Clone or download this application into the "www" directory on your apache server.
-2. The Currency Converter chat application database file is located in "config/schema/currencyconverter.sql" directory of the project folder 
+2. The Currency Converter chat application database file is located in "config/schema/currencyconverter.sql" directory of the project folder
+3. Run "composer install" to install framework depencies within the vendor folder. 
 3. Run this sql script on your mysql server to create the "currencyconverter" database.
 
 ## Configuration
